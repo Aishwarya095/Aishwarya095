@@ -201,9 +201,13 @@ current_cgpa: 8.85 / 10.0
 
   <br />
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aishwarya095&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Aishwarya's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aishwarya095&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" alt="Aishwarya's GitHub Stats" />
   &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya095&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aishwarya095&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+
+  <br /><br />
+
+  <img src="https://streak-stats.demolab.com?user=Aishwarya095&theme=radical&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
   <br /><br />
 
