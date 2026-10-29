@@ -12,7 +12,7 @@
     <a href="mailto:aishwaryaappannagol@gmail.com">
       <img src="https://img.shields.io/badge/Email-aishwaryaappannagol%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="www.linkedin.com/in/aishwarya-appannagol-8699a2325" target="_blank">
+    <a href="https://www.linkedin.com/in/aishwarya-appannagol-8699a2325" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Aishwarya_Appannagol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Aishwarya095" target="_blank">
@@ -211,6 +211,6 @@ current_cgpa: 8.85 / 10.0
 
   <br />
 
-  ⭐ *Feel free to explore my repositories or connect with me on [LinkedIn](https://linkedin.com/in/aishwarya-appannagol)!*
+  ⭐ *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/aishwarya-appannagol-8699a2325)!*
 
 </div>
