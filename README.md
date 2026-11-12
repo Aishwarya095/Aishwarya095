@@ -3,7 +3,7 @@
   # 💫 Hi there, I'm Aishwarya B Appannagol 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Generative+AI+%26+Deep+Learning+Enthusiast;Building+Autonomous+Agents+%26+RAG+Systems;IEEE+Published+Researcher;CSE+(AI)+%40+KLE+Technological+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Generative+AI+%26+Deep+Learning+Enthusiast;Building+Autonomous+Agents+%26+RAG+Systems;IEEE+Published+Researcher" alt="Typing SVG" />
   </a>
 
   <br />
